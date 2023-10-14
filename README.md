@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wamique</h1>
 <h3 align="center">A student of Computer Science from Pakistan</h3>
 
-  <p align="center"> <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="a guy coding at night" /> </p>
+  <p align="center"> 
+    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64ea7f80b128dce3cb7c3282?variant=dark" alt="roadmap.sh"/></a>
+    <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="a guy coding at night" /> 
+  </p>
+  
 
 - 🔭 I’m currently working on [mini Java and C-Sharp projects](https://github.com/wamikabro/SchoolManagementSystemWPF)
 
