@@ -30,6 +30,7 @@
   </div>
 
 ![snake gif](https://github.com/wamikabro/wamikabro/blob/output/github-contribution-grid-snake.svg)
+
 <hr>
 <h3 align="center">Connect with me:</h3>
 <br/>
