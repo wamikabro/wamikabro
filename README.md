@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I think I think deep**
 
+![snake gif](https://github.com/wamikabro/wamikabro/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wamiqueabro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wamiqueabro" height="30" width="40" /></a>
