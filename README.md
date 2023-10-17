@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Wamique</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salam!+👋;+I'm+Wamique!;" />
+</h1>
+
 <h3 align="center">A student of Computer Science from Pakistan</h3>
+
+<br/>
 
   <p align="center"> 
     <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64ea7f80b128dce3cb7c3282?variant=dark" alt="roadmap.sh"/></a>
@@ -39,3 +44,8 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=wamikabro&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+<hr/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+For+Visting+💙;See+You!;" />
+</h1>
