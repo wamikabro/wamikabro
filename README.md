@@ -17,11 +17,9 @@
   <hr>
 <div align="center">
     
-🔭 I’m currently working on [mini Java and C-Sharp projects](https://github.com/wamikabro/SchoolManagementSystemWPF)
+🔭 I’m currently working on a Clone
 
-🌱 I’m currently learning **Generics, Data Structures and Collection Framework**
-
-👨‍💻 All of my projects are available at [https://github.com/wamikabro](https://github.com/wamikabro)
+👨‍💻 Learning **Data Structures and Algorithm**
 
 📫 How to reach me **wamik.abro212@gmail.com**
 
