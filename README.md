@@ -51,7 +51,7 @@
     <img src="https://streak-stats.demolab.com?user=wamikabro&theme=youtube-dark" alt="commit stats" />
     <br/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=wamikabro&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img align=top width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=wamikabro&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=wamikabro&layout=compact&langs_count=8&card_width=330&theme=dark" alt="top langs" />
 </div>
 
 <hr/>
