@@ -1,6 +1,6 @@
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wamikabro.wamikabro" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=500&height=70&lines=Salam%F0%9F%91%8B;I'm+Wamique!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Salam%F0%9F%91%8B;I'm+Wamique!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A student of Computer Science from Pakistan</h3>
@@ -95,5 +95,5 @@
 
 <hr/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&random=false&width=500&height=70&lines=Thanks+For+Visiting+%E2%9D%A4%EF%B8%8F;See+You+%F0%9F%A4%8D" alt="Thanking for visiting SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Thanks+For+Visiting+%E2%9D%A4%EF%B8%8F;See+You+%F0%9F%A4%8D" alt="Thanking for visiting SVG" />
 </h1>
