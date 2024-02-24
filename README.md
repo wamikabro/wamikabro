@@ -95,5 +95,5 @@
 
 <hr/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visting+💙;See+You+🤍;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&random=false&width=500&height=70&lines=Thanks+For+Visiting+%E2%9D%A4%EF%B8%8F;See+You+%F0%9F%A4%8D" alt="Thanking for visiting SVG" />
 </h1>
