@@ -1,4 +1,4 @@
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wamikabro.wamikabro" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wamikabro.wamikabro" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Salam%F0%9F%91%8B;I'm+Wamique!" alt="Typing SVG" />
 </h1>
