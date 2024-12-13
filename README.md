@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Salam%F0%9F%91%8B;I'm+Wamique!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A student of Computer Science from Pakistan</h3>
+<h3 align="center">A Student of Computer Science from Pakistan</h3>
 
 <br/>
 
