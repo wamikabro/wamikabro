@@ -16,9 +16,8 @@
   <hr>
 <div align="center">
     
-🔭 I’m currently learning Frontend Web Development
 
-👨‍💻 Learning **Data Structures and Algorithm**
+👨‍💻 I’m currently learning Frontend Web Development
 
 📫 How to reach me **wamik.abro212@gmail.com**
 
