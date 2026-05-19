@@ -17,11 +17,11 @@
 <div align="center">
     
 
-👨‍💻 I’m currently learning Frontend Web Development
+👨‍💻 I’m currently learning Python Automation
 
 📫 How to reach me **wamik.abro212@gmail.com**
 
-⚡ Fun fact **I think I think deep**
+⚡ Drawback **I often overcalculate. Maybe useful in risk analysis.**
 
   </div>
 
